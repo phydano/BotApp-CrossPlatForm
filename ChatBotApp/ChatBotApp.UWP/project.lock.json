@@ -22272,16 +22272,16 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "c:\\users\\dano\\documents\\visual studio 2017\\Projects\\ChatBotApp\\ChatBotApp\\ChatBotApp.UWP\\ChatBotApp.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\Dano\\Documents\\Github\\BotApp-CrossPlatForm\\ChatBotApp\\ChatBotApp.UWP\\ChatBotApp.UWP.csproj",
       "projectName": "ChatBotApp.UWP",
-      "projectPath": "c:\\users\\dano\\documents\\visual studio 2017\\Projects\\ChatBotApp\\ChatBotApp\\ChatBotApp.UWP\\ChatBotApp.UWP.csproj",
-      "projectJsonPath": "c:\\users\\dano\\documents\\visual studio 2017\\Projects\\ChatBotApp\\ChatBotApp\\ChatBotApp.UWP\\project.json",
+      "projectPath": "C:\\Users\\Dano\\Documents\\Github\\BotApp-CrossPlatForm\\ChatBotApp\\ChatBotApp.UWP\\ChatBotApp.UWP.csproj",
+      "projectJsonPath": "C:\\Users\\Dano\\Documents\\Github\\BotApp-CrossPlatForm\\ChatBotApp\\ChatBotApp.UWP\\project.json",
       "projectStyle": "ProjectJson",
       "frameworks": {
         "uap10.0": {
           "projectReferences": {
-            "c:\\users\\dano\\documents\\visual studio 2017\\Projects\\ChatBotApp\\ChatBotApp\\ChatBotApp\\ChatBotApp.csproj": {
-              "projectPath": "c:\\users\\dano\\documents\\visual studio 2017\\Projects\\ChatBotApp\\ChatBotApp\\ChatBotApp\\ChatBotApp.csproj"
+            "C:\\Users\\Dano\\Documents\\Github\\BotApp-CrossPlatForm\\ChatBotApp\\ChatBotApp\\ChatBotApp.csproj": {
+              "projectPath": "C:\\Users\\Dano\\Documents\\Github\\BotApp-CrossPlatForm\\ChatBotApp\\ChatBotApp\\ChatBotApp.csproj"
             }
           }
         }

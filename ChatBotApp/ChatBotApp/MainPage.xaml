@@ -4,8 +4,9 @@
              xmlns:local="clr-namespace:ChatBotApp"
              x:Class="ChatBotApp.MainPage">
 
-	<Label Text="Welcome to Xamarin Forms!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
+    <StackLayout Margin="20" Orientation="Vertical">
+        <Button Text="Start ChatBot"
+                    Clicked="ButtonIsClicked"/>
+    </StackLayout>
 
 </ContentPage>

@@ -13,3 +13,18 @@ c:\users\dano\documents\visual studio 2017\Projects\ChatBotApp\ChatBotApp\ChatBo
 c:\users\dano\documents\visual studio 2017\Projects\ChatBotApp\ChatBotApp\ChatBotApp\obj\Debug\ChatBotApp.App.xaml.g.cs
 c:\users\dano\documents\visual studio 2017\Projects\ChatBotApp\ChatBotApp\ChatBotApp\obj\Debug\ChatBotApp.dll
 c:\users\dano\documents\visual studio 2017\Projects\ChatBotApp\ChatBotApp\ChatBotApp\obj\Debug\ChatBotApp.pdb
+C:\Users\Dano\Documents\Github\BotApp-CrossPlatForm\ChatBotApp\ChatBotApp\bin\Debug\ChatBotApp.dll
+C:\Users\Dano\Documents\Github\BotApp-CrossPlatForm\ChatBotApp\ChatBotApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Dano\Documents\Github\BotApp-CrossPlatForm\ChatBotApp\ChatBotApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Dano\Documents\Github\BotApp-CrossPlatForm\ChatBotApp\ChatBotApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Dano\Documents\Github\BotApp-CrossPlatForm\ChatBotApp\ChatBotApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Dano\Documents\Github\BotApp-CrossPlatForm\ChatBotApp\ChatBotApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Dano\Documents\Github\BotApp-CrossPlatForm\ChatBotApp\ChatBotApp\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Dano\Documents\Github\BotApp-CrossPlatForm\ChatBotApp\ChatBotApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Dano\Documents\Github\BotApp-CrossPlatForm\ChatBotApp\ChatBotApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Dano\Documents\Github\BotApp-CrossPlatForm\ChatBotApp\ChatBotApp\obj\Debug\ChatBotApp.csprojResolveAssemblyReference.cache
+C:\Users\Dano\Documents\Github\BotApp-CrossPlatForm\ChatBotApp\ChatBotApp\obj\Debug\ChatBotApp.MainPage.xaml.g.cs
+C:\Users\Dano\Documents\Github\BotApp-CrossPlatForm\ChatBotApp\ChatBotApp\obj\Debug\ChatBotApp.App.xaml.g.cs
+C:\Users\Dano\Documents\Github\BotApp-CrossPlatForm\ChatBotApp\ChatBotApp\obj\Debug\ChatBotApp.dll
+C:\Users\Dano\Documents\Github\BotApp-CrossPlatForm\ChatBotApp\ChatBotApp\obj\Debug\ChatBotApp.pdb
+C:\Users\Dano\Documents\Github\BotApp-CrossPlatForm\ChatBotApp\ChatBotApp\bin\Debug\ChatBotApp.pdb
